@@ -19,7 +19,7 @@ class Singlelist{
     }
     
     
-    //To insert new nodes and if the position isn't defined it inserts in the fron one of the cons of 
+    //To insert new nodes and if the position isn't defined it inserts in the front one of the cons of 
     //single linked list
     //to tackle the no argument issue while understanding user's 1 based indexing i used size_t(-1) which acts as a flag to 
     //insert in the front
